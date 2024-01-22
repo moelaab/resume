@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Riwayat Hidup
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: mulaab
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mulaab
+last_name: Mulyo
 
 # Status emoji
 status:
