@@ -28,7 +28,7 @@ slides:
 
 ---
 
-## Controls
+## Kontrol ini digunakan sebagai alat 
 
 - Next: `Right Arrow` or `Space`
 - Previous: `Left Arrow`
