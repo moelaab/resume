@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Contoh Talk
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
