@@ -3,7 +3,7 @@
 title: Riwayat Hidup
 
 # Name pronunciation (optional)
-name_pronunciation: mulaab
+name_pronunciation: mulaab mulyo
 
 # Full name (for SEO)
 first_name: Mulaab
